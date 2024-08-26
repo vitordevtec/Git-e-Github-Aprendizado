@@ -1,0 +1,6 @@
+Cachorro
+Gato
+Tigre
+Leão
+Vaca
+Zebra
